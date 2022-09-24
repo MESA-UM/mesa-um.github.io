@@ -560,7 +560,7 @@
 }
 
 .u-section-5 .u-icon-2 {
-  height: 55px;
+  height: 59px;
   width: 55px;
   margin: 0 auto 0 220px;
   padding: 0;
@@ -586,9 +586,7 @@
 .u-section-5 .u-icon-3 {
   height: 56px;
   width: 48px;
-  background-image: none;
   margin: 0 auto;
-  padding: 0;
 }
 
 .u-section-5 .u-text-6 {
@@ -652,6 +650,10 @@
   .u-section-5 .u-layout-cell-5 {
     background-position: 50% 50%;
     min-height: 318px;
+  }
+
+  .u-section-5 .u-icon-3 {
+    padding: 0;
   }
 
   .u-section-5 .u-image-3 {
