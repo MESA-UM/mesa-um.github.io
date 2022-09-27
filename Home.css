@@ -1,30 +1,26 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/IMG_0227.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/image1.png");
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 683px;
 }
 
-.u-section-1 .u-image-1 {
-  width: 482px;
-  height: 396px;
-  margin: 89px auto 0 0;
-}
-
 .u-section-1 .u-text-1 {
   letter-spacing: 8px;
-  margin: -30px auto 0 0;
+  font-size: 4.5rem;
+  margin: 455px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   letter-spacing: normal;
-  margin: 0 114px 0 0;
+  margin: 0 57px;
 }
 
 .u-section-1 .u-text-3 {
   letter-spacing: 10px;
-  margin: 20px 314px 60px 0;
+  width: 826px;
+  margin: 21px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -33,28 +29,23 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 651px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-top: 84px;
+    min-height: 659px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: -37px;
+    margin-top: 458px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
     letter-spacing: 4px;
-    margin-top: 24px;
+    margin-top: -11px;
   }
 
   .u-section-1 .u-text-3 {
     width: auto;
-    margin-right: 114px;
-    margin-bottom: 25px;
+    margin: 17px 0 49px;
   }
 }
 
@@ -63,22 +54,17 @@
     min-height: 583px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-top: 50px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -52px;
+    margin-top: 394px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 0;
+    margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
     margin-top: 11px;
-    margin-right: 0;
     margin-bottom: 31px;
   }
 }
@@ -88,16 +74,13 @@
     min-height: 562px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-top: 13px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -46px;
+    margin-top: 363px;
+    font-size: 3.75rem;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 0;
+    margin-top: 17px;
     margin-bottom: 29px;
   }
 }
@@ -107,16 +90,8 @@
     min-height: 554px;
   }
 
-  .u-section-1 .u-image-1 {
-    height: 279px;
-    margin-top: 109px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -26px;
+    margin-top: 362px;
   }
 
   .u-section-1 .u-text-3 {
