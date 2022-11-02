@@ -38,7 +38,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 566px;
-  background-image: url("images/14.png");
+  background-image: url("images/15.png");
   background-position: 50% 50%;
 }
 
@@ -154,21 +154,22 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 703px;
+  min-height: 1337px;
 }
 
 .u-section-3 .u-text-1 {
   font-weight: 400;
-  margin: 31px auto 0 0;
+  margin: 70px auto 0 0;
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin-top: 31px;
-  margin-bottom: 1px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  width: 100%;
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 571px;
+  min-height: 561px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -188,12 +189,12 @@
 
 .u-section-3 .u-text-4 {
   font-size: 1.125rem;
-  margin: 20px 0 0;
+  margin: 22px 0 0;
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 571px;
-  background-image: url("images/12.png");
+  min-height: 561px;
+  background-image: url("images/14.png");
   background-position: 50% 50%;
 }
 
@@ -201,9 +202,52 @@
   padding: 30px;
 }
 
+.u-section-3 .u-image-2 {
+  min-height: 508px;
+  background-image: url("images/12.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-4 {
+  min-height: 508px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 2.25rem;
+  margin: 0;
+}
+
+.u-section-3 .u-text-6 {
+  font-weight: 400;
+  font-size: 1rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-7 {
+  font-size: 1.125rem;
+  margin: 22px 0 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 503px;
+    min-height: 893px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 814px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -862px;
+    width: auto;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -227,18 +271,34 @@
   .u-section-3 .u-text-4 {
     font-size: 1rem;
     width: auto;
-    margin-top: 22px;
     margin-bottom: -2px;
   }
 
   .u-section-3 .u-image-1 {
     min-height: 315px;
   }
+
+  .u-section-3 .u-image-2 {
+    min-height: 315px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 419px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 283px;
+    min-height: 768px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 689px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -736px;
+    width: auto;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -251,13 +311,30 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 361px;
+    min-height: 355px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 321px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 100px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1429px;
+    min-height: 1243px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 1177px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: -1212px;
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -266,10 +343,24 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 542px;
+    min-height: 533px;
   }
 
   .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 482px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -277,11 +368,16 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1925px;
+    min-height: 1072px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 966px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-bottom: 9px;
+    margin-top: -1040px;
+    width: auto;
   }
 
   .u-section-3 .u-text-2 {
@@ -289,7 +385,15 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 341px;
+    min-height: 336px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 303px;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 1.5rem;
   }
 } .u-section-4 {
   background-image: linear-gradient(#f5f7fa, #e9f2fa);
