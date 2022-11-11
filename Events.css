@@ -65,7 +65,11 @@
 }
 
 .u-section-2 .u-btn-1 {
+<<<<<<< HEAD
+  border-style: solid;
+=======
   border-style: none none solid;
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -190,6 +194,10 @@
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 31px;
   margin-bottom: 10px;
+<<<<<<< HEAD
+  min-height: 566px;
+=======
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -197,7 +205,11 @@
 }
 
 .u-section-3 .u-container-layout-1 {
+<<<<<<< HEAD
+  padding: 30px 60px 30px 62px;
+=======
   padding: 30px 60px;
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
 }
 
 .u-section-3 .u-text-2 {
@@ -233,6 +245,13 @@
     min-height: 629px;
   }
 
+<<<<<<< HEAD
+  .u-section-3 .u-layout-wrap-1 {
+    min-height: 368px;
+  }
+
+=======
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   .u-section-3 .u-layout-cell-1 {
     min-height: 467px;
   }
@@ -275,6 +294,13 @@
     min-height: 810px;
   }
 
+<<<<<<< HEAD
+  .u-section-3 .u-layout-wrap-1 {
+    min-height: 547px;
+  }
+
+=======
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   .u-section-3 .u-container-layout-1 {
     padding-left: 50px;
     padding-right: 50px;
@@ -299,8 +325,22 @@
     font-size: 1.875rem;
   }
 
+<<<<<<< HEAD
+  .u-section-3 .u-layout-wrap-1 {
+    min-height: 348px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    order: 1;
+  }
+
   .u-section-3 .u-image-1 {
     min-height: 338px;
+    order: 0;
+=======
+  .u-section-3 .u-image-1 {
+    min-height: 338px;
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   }
 } .u-section-4 {
   background-image: linear-gradient(#fef9e6, #e9f2fa);
@@ -504,12 +544,23 @@
     font-size: 1.5rem;
   }
 
+<<<<<<< HEAD
+  .u-section-4 .u-layout-cell-3 {
+    order: 1;
+  }
+
+=======
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   .u-section-4 .u-text-4 {
     font-size: 1.5rem;
   }
 
   .u-section-4 .u-image-2 {
     min-height: 303px;
+<<<<<<< HEAD
+    order: 0;
+=======
+>>>>>>> ef59890316dc434d606976b6f90e8359874d97e2
   }
 } .u-section-5 {
   background-image: linear-gradient(#f5f7fa, #e9f2fa);
