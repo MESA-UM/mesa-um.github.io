@@ -3,24 +3,24 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 683px;
+  min-height: 869px;
 }
 
 .u-section-1 .u-text-1 {
   letter-spacing: 8px;
   font-size: 4.5rem;
-  margin: 455px auto 0;
+  margin: 661px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   letter-spacing: normal;
-  margin: 0 57px;
+  margin: 6px 57px 0;
 }
 
 .u-section-1 .u-text-3 {
   letter-spacing: 10px;
   width: 826px;
-  margin: 21px auto 60px;
+  margin: 0 auto 55px;
 }
 
 @media (max-width: 1199px) {
