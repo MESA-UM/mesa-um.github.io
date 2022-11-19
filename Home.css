@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/IMG_59021.JPG");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -25,6 +24,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 659px;
   }
@@ -208,7 +211,7 @@
   height: 87px;
   left: auto;
   top: 290px;
-  right: 0;
+  right: calc(((100% - 1140px) / 2)  + -48px);
   padding: 23px;
 }
 
@@ -216,11 +219,19 @@
   .u-block-6569-3 {
     left: calc(((100% - 940px) / 2)  + -55px);
   }
+
+  .u-block-6569-4 {
+    right: calc(((100% - 940px) / 2)  + -39px);
+  }
 }
 
 @media (max-width: 991px) {
   .u-block-6569-3 {
     left: calc(((100% - 720px) / 2)  + -42px);
+  }
+
+  .u-block-6569-4 {
+    right: calc(((100% - 720px) / 2)  + -30px);
   }
 }
 
@@ -228,11 +239,19 @@
   .u-block-6569-3 {
     left: calc(((100% - 540px) / 2)  + -31px);
   }
+
+  .u-block-6569-4 {
+    right: calc(((100% - 540px) / 2)  + -22px);
+  }
 }
 
 @media (max-width: 575px) {
   .u-block-6569-3 {
     left: calc(((100% - 340px) / 2)  + -20px);
+  }
+
+  .u-block-6569-4 {
+    right: calc(((100% - 340px) / 2)  + -14px);
   }
 }
 
@@ -284,7 +303,7 @@
 
 .u-section-3-1 .u-image-1 {
   min-height: 571px;
-  background-image: url("images/row-1-column-1.png");
+  background-image: url("images/IndustrialVisittoSunwayConstruction.png");
   background-position: 50% 50%;
 }
 
@@ -1106,6 +1125,7 @@
 .u-section-3-6 .u-image-1 {
   min-height: 539px;
   background-image: url("images/32.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3-6 .u-container-layout-1 {
