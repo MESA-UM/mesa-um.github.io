@@ -197,10 +197,10 @@
 
 .u-block-6569-3 {
   position: absolute;
-  left: calc(((100% - 1140px) / 2)  + -66px);
+  left: calc(((100% - 1140px) / 2)  + -68px);
   width: 87px;
   height: 87px;
-  top: 283px;
+  top: 281px;
   right: auto;
   padding: 23px;
 }
@@ -211,33 +211,33 @@
   height: 87px;
   left: auto;
   top: 290px;
-  right: calc(((100% - 1140px) / 2)  + -48px);
+  right: calc(((100% - 1140px) / 2)  + -46px);
   padding: 23px;
 }
 
 @media (max-width: 1199px) {
   .u-block-6569-3 {
-    left: calc(((100% - 940px) / 2)  + -55px);
+    left: calc(((100% - 940px) / 2)  + -56px);
   }
 
   .u-block-6569-4 {
-    right: calc(((100% - 940px) / 2)  + -39px);
+    right: calc(((100% - 940px) / 2)  + -38px);
   }
 }
 
 @media (max-width: 991px) {
   .u-block-6569-3 {
-    left: calc(((100% - 720px) / 2)  + -42px);
+    left: calc(((100% - 720px) / 2)  + -43px);
   }
 
   .u-block-6569-4 {
-    right: calc(((100% - 720px) / 2)  + -30px);
+    right: calc(((100% - 720px) / 2)  + -29px);
   }
 }
 
 @media (max-width: 767px) {
   .u-block-6569-3 {
-    left: calc(((100% - 540px) / 2)  + -31px);
+    left: calc(((100% - 540px) / 2)  + -32px);
   }
 
   .u-block-6569-4 {
@@ -256,7 +256,7 @@
 }
 
  .u-section-3-1 {
-  background-image: linear-gradient(white, #f5f7fa);
+  background-image: linear-gradient(white, #fbeced);
 }
 
 .u-section-3-1 .u-sheet-1 {
@@ -303,7 +303,7 @@
 
 .u-section-3-1 .u-image-1 {
   min-height: 571px;
-  background-image: url("images/1.jpg");
+  background-image: url("images/industrialvisit.png");
   background-position: 50% 50%;
 }
 
