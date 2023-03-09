@@ -195,6 +195,7 @@
 .u-section-3 .u-image-1 {
   min-height: 593px;
   background-image: url("images/72.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -203,7 +204,8 @@
 
 .u-section-3 .u-image-2 {
   min-height: 593px;
-  background-image: url("images/83.png");
+  background-image: url("images/84.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-2 {
