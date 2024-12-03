@@ -177,50 +177,84 @@
   }
 
 } .u-section-3 {
-  background-image: linear-gradient(#fbeced, #eafdfc);
+  background-image: linear-gradient(#eafdfc, white);
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 579px;
+  min-height: 1139px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin-top: 0;
-  margin-bottom: 17px;
+  margin-top: 1px;
+  margin-bottom: 10px;
 }
 
-.u-section-3 .u-layout-cell-1 {
-  min-height: 562px;
+.u-section-3 .u-image-1 {
+  min-height: 561px;
+  background-image: url("images/westerndigital.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
   padding: 30px;
 }
 
+.u-section-3 .u-layout-cell-2 {
+  min-height: 561px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 19px;
+}
+
 .u-section-3 .u-text-1 {
   font-size: 2.25rem;
-  margin: 0 30px;
+  margin: 0 41px;
 }
 
 .u-section-3 .u-text-2 {
   font-weight: 400;
   font-size: 1rem;
-  margin: 13px auto 0 30px;
+  margin: 13px 41px 0;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 1.125rem;
-  margin: 14px 33px 0 27px;
+  margin: 20px 41px 0;
 }
 
-.u-section-3 .u-image-1 {
-  min-height: 562px;
-  background-image: url("images/westerndigital.png");
+.u-section-3 .u-layout-cell-3 {
+  min-height: 567px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 2.25rem;
+  margin: 0 30px;
+}
+
+.u-section-3 .u-text-5 {
+  font-weight: 400;
+  font-size: 1rem;
+  margin: 13px auto 0 30px;
+}
+
+.u-section-3 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 21px 30px 0;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 567px;
+  background-image: url("images/mesaorientationday.png");
   background-position: 50% 50%;
 }
 
-.u-section-3 .u-container-layout-2 {
-  padding: 30px 60px;
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
 }
 
 @media (max-width: 1199px) {
@@ -229,10 +263,15 @@
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 1073px;
+    min-height: 942px;
   }
 
-  .u-section-3 .u-layout-cell-1 {
+  .u-section-3 .u-image-1 {
+    min-height: 463px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    background-position: 50% 50%;
     min-height: 463px;
   }
 
@@ -243,6 +282,7 @@
 
   .u-section-3 .u-text-2 {
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-text-3 {
@@ -250,8 +290,26 @@
     margin-right: 0;
   }
 
-  .u-section-3 .u-image-1 {
-    min-height: 463px;
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 468px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-5 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 468px;
   }
 }
 
@@ -261,26 +319,37 @@
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 855px;
-  }
-
-  .u-section-3 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 724px;
   }
 
   .u-section-3 .u-image-1 {
     min-height: 355px;
   }
 
-  .u-section-3 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 358px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1330px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 211px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 533px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -288,11 +357,21 @@
     padding-right: 10px;
   }
 
-  .u-section-3 .u-image-1 {
-    min-height: 533px;
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
-  .u-section-3 .u-container-layout-2 {
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 537px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -300,177 +379,35 @@
 
 @media (max-width: 575px) {
    .u-section-3 {
-    min-height: 291px;
+    min-height: 261px;
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 766px;
+    min-height: 1458px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 92px;
-    margin-bottom: 18px;
+    margin-top: 1px;
   }
 
-  .u-section-3 .u-layout-cell-1 {
-    order: 1;
+  .u-section-3 .u-image-1 {
+    min-height: 336px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 1.5rem;
   }
 
-  .u-section-3 .u-image-1 {
-    min-height: 336px;
-    order: 0;
-  }
- 
-} .u-section-5 {
-  background-image: linear-gradient(#fbeced, #eafdfc);
-}
-
-.u-section-5 .u-sheet-1 {
-  min-height: 579px;
-}
-
-.u-section-5 .u-layout-wrap-1 {
-  margin-top: 0;
-  margin-bottom: 17px;
-}
-
-.u-section-5 .u-layout-cell-1 {
-  min-height: 562px;
-}
-
-.u-section-5 .u-container-layout-1 {
-  padding: 30px;
-}
-
-.u-section-5 .u-text-1 {
-  font-size: 2.25rem;
-  margin: 0 30px;
-}
-
-.u-section-5 .u-text-2 {
-  font-weight: 400;
-  font-size: 1rem;
-  margin: 13px auto 0 30px;
-}
-
-.u-section-5 .u-text-3 {
-  font-size: 1.125rem;
-  margin: 14px 33px 0 27px;
-}
-
-.u-section-5 .u-image-1 {
-  min-height: 562px;
-  background-image: url("images/mesaorientationday.png");
-  background-position: 50% 50%;
-}
-
-.u-section-5 .u-container-layout-2 {
-  padding: 30px 60px;
-}
-
-@media (max-width: 1199px) {
-   .u-section-5 {
-    min-height: 318px;
-  }
-
-  .u-section-5 .u-sheet-1 {
-    min-height: 1073px;
-  }
-
-  .u-section-5 .u-layout-cell-1 {
-    min-height: 463px;
-  }
-
-  .u-section-5 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-text-2 {
-    margin-left: 0;
-  }
-
-  .u-section-5 .u-text-3 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 463px;
-  }
-}
-
-@media (max-width: 991px) {
-   .u-section-5 {
-    min-height: 66px;
-  }
-
-  .u-section-5 .u-sheet-1 {
-    min-height: 855px;
-  }
-
-  .u-section-5 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 355px;
-  }
-
-  .u-section-5 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 1330px;
-  }
-
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 533px;
-  }
-
-  .u-section-5 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-   .u-section-5 {
-    min-height: 291px;
-  }
-
-  .u-section-5 .u-sheet-1 {
-    min-height: 766px;
-  }
-
-  .u-section-5 .u-layout-wrap-1 {
-    margin-top: 92px;
-    margin-bottom: 18px;
-  }
-
-  .u-section-5 .u-layout-cell-1 {
+  .u-section-3 .u-layout-cell-3 {
     order: 1;
   }
 
-  .u-section-5 .u-text-1 {
+  .u-section-3 .u-text-4 {
     font-size: 1.5rem;
   }
 
-  .u-section-5 .u-image-1 {
-    min-height: 336px;
+  .u-section-3 .u-image-2 {
+    min-height: 338px;
     order: 0;
   }
 } .u-section-6 {
